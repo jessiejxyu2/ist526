@@ -1,23 +1,68 @@
 [
    {
-      "Name":"chevrolet chevelle malibu",
-      "Miles_per_Gallon":18,
-      "Cylinders":8,
-      "Displacement":307,
-      "Horsepower":130,
-      "Weight_in_lbs":3504,
-      "Acceleration":12,
-      "Year":"1970-01-01",
-      "Origin":"USA"
+      "Name":"Andrew",
+      "C1_T1":13.17,
+      "C1_T2":12.78,
+      "C2_T1":13.65,
+      "C2_T2":12.03,
+      "SNS_C1":85,
+      "SNS_C2":85,
+      "NASA_C1":34.44,
+      "NASA_C2":27.66
    },
    {
-      "Name":"buick skylark 320",
-      "Miles_per_Gallon":15,
-      "Cylinders":8,
-      "Displacement":350,
-      "Horsepower":165,
-      "Weight_in_lbs":3693,
-      "Acceleration":11.5,
-      "Year":"1970-01-01",
-      "Origin":"USA"
+      "Name":"Jeff",
+      "C1_T1":13.17,
+      "C1_T2":12.78,
+      "C2_T1":13.65,
+      "C2_T2":12.03,
+      "SNS_C1":85,
+      "SNS_C2":85,
+      "NASA_C1":34.44,
+      "NASA_C2":27.66
    },
+   {
+      "Name":"Lindy",
+      "C1_T1":13.17,
+      "C1_T2":12.78,
+      "C2_T1":13.65,
+      "C2_T2":12.03,
+      "SNS_C1":85,
+      "SNS_C2":85,
+      "NASA_C1":34.44,
+      "NASA_C2":27.66
+   },
+   {
+      "Name":"LAY",
+      "C1_T1":13.17,
+      "C1_T2":12.78,
+      "C2_T1":13.65,
+      "C2_T2":12.03,
+      "SNS_C1":85,
+      "SNS_C2":85,
+      "NASA_C1":34.44,
+      "NASA_C2":27.66
+   }
+    {
+      "Name":"Andy",
+      "C1_T1":13.17,
+      "C1_T2":12.78,
+      "C2_T1":13.65,
+      "C2_T2":12.03,
+      "SNS_C1":85,
+      "SNS_C2":85,
+      "NASA_C1":34.44,
+      "NASA_C2":27.66
+   },
+   {
+      "Name":"Zhang",
+      "C1_T1":13.17,
+      "C1_T2":12.78,
+      "C2_T1":13.65,
+      "C2_T2":12.03,
+      "SNS_C1":85,
+      "SNS_C2":85,
+      "NASA_C1":34.44,
+      "NASA_C2":27.66
+   }
+]
